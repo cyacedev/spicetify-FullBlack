@@ -1,0 +1,12 @@
+.Header{
+    color: var(--modspotify_main_bg);
+}
+
+.Header__top-bar{
+    background: var(--modspotify_main_bg);
+    opacity: 1;
+}
+
+.Header__background-color{
+    background-image: linear-gradient(to bottom, var(--modspotify_main_bg), var(--modspotify_main_bg)) !important;
+}
